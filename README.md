@@ -36,7 +36,7 @@ A corresponding [tutorial is available](https://experienceleague.adobe.com/docs/
 
 ### AEM as a Cloud Service
 
-To deploy WKND to AEM as a Cloud Service, this project's source code must be deployed to AEM via Cloud Manager test again. 
+To deploy WKND to AEM as a Cloud Service, this project's source code must be deployed to AEM via Cloud Manager. 
 
 1. Clone this Git repository
 2. Push the `main` branch to your Cloud Manager's Git repository
